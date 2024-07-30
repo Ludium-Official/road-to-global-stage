@@ -10,8 +10,8 @@
 | 리클레임 프로토콜 시작하기 | 아티클 | 리클레임 프로토콜의 기술적인 동작 원리와 실행 방법 아티클 | [리클레임 프로토콜 시작하기](https://github.com/Ludium-Official/road-to-global-stage/blob/main/%EB%A6%AC%ED%81%B4%EB%A0%88%EC%9E%84%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C/%EB%A6%AC%ED%81%B4%EB%A0%88%EC%9E%84%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%20%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C.md) |
 | 링크드인 인증 페이지 만들기 | 미션 | 랑크드인 커넥션 숫자가 10명 이상이어야 접속 가능한 페이지 만들기 | [링크드인 인증 페이지 만들기]() |
 | 깃헙 인증 페이지 만들기 | 미션 | 깃헙 리포 기여자 인증 페이지 만들기 | [깃헙 인증 페이지 만들기]() |
-| 컨트리뷰터 에어드랍 - Solidity | 미션 | 솔리디티로 루디움 리포에 컨트리뷰션 한 사람에게 토큰을 에어드랍하는 컨트랙트 만들기| [Solidity SDK](https://github.com/reclaimprotocol/demo-solidity-sdk) |
-| 컨트리뷰터 에어드랍 - CosmWasm | 미션 | CosmWasm으로 루디움 리포에 컨트리뷰션 한 사람에게 토큰을 에어드랍하는 컨트랙트 만들기 | [Neutron Example](https://docs.reclaimprotocol.org/cosmos/neutron) |
+| 컨트리뷰터 에어드랍 - Solidity | 미션 | 솔리디티로 루디움 리포에 컨트리뷰션 한 사람에게 토큰을 에어드랍하는 컨트랙트 만들기| [제작 중]() |
+| 컨트리뷰터 에어드랍 - CosmWasm | 미션 | CosmWasm으로 루디움 리포에 컨트리뷰션 한 사람에게 토큰을 에어드랍하는 컨트랙트 만들기 | [제작 중]() |
 
 # 제안 및 추가 
 * 솔리디티 베이직 교육 모듈은 오픈 소스 컨트리뷰션을 통해 지속적으로 자료를 보완, 발전시킨다
